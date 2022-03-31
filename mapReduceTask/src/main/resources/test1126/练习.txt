@@ -1,0 +1,2 @@
+1、使用map-join实现pd.txt和order.txt的连接,最终显示（id pname amount）
+2、邮箱文件中，保留满足邮箱格式的数据（zhangsan@qq.com）

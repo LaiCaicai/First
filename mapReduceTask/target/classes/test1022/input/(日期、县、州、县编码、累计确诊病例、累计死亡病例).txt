@@ -1,0 +1,13 @@
+2020-01-21,Snohomish,Washington,53061.0,554,69
+2020-01-22,Snohomish,Washington,53061.0,1554,40
+2020-01-23,Snohomish,Washington,53061.0,2554,225
+2020-01-24,Cook,Illinois,17031.0,254,22
+2020-01-24,Snohomish,Washington,53061.0,354,54
+2020-01-25,Orange,California,6059.0,551,37
+2020-01-25,Cook,Illinois,17031.0,552,33
+2020-01-25,Snohomish,Washington,53061.0,754,40
+2020-01-26,Maricopa,Arizona,4013.0,954,60
+2020-01-26,Los Angeles,California,6037.0,154,50
+2020-01-26,Orange,California,6059.0,254,56
+2020-01-26,Cook,Illinois,17031.0,954,77
+2020-04-03,Nash,North Carolina,37127.0,14,25
